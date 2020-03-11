@@ -19,4 +19,4 @@ Once printed the base, you have to fit the transparent rigid plastic panel towar
 Once did this, put the rubber band in the forehead contact zone (it's easy to understand what it is, but, in order to be clear, the interested zone is the curved one that has no spikes).
 The last thing is to fit the elastic bands to the side holes.
 
-Once finished, the transparent panel can be replaced with another one.
+Once finished a working stint, the transparent panel can be replaced with another one.
