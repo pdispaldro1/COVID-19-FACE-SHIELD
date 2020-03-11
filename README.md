@@ -12,3 +12,11 @@ In the repository there are also some screenshot of how this base fits to a huma
 
 This device has to work only with FFP2-FFP3 masks, not without it.
 
+
+ADDENDUM: HOW TO BUILD A FACIAL SHIELD
+
+Once printed the base, you have to fit the transparent rigid plastic panel towards the base fitting the holes with the spikes.
+Once did this, put the rubber band in the forehead contact zone (it's easy to understand what it is, but, in order to be clear, the interested zone is the curved one that has no spikes).
+The last thing is to fit the elastic bands to the side holes.
+
+Once finished, the transparent panel can be replaced with another one.
