@@ -20,3 +20,6 @@ Once did this, put the rubber band in the forehead contact zone (it's easy to un
 The last thing is to fit the elastic bands to the side holes.
 
 Once finished a working stint, the transparent panel can be replaced with another one.
+
+12/03/2020 UPDATE:
+-ADDED PLASTIC SCREEN VALID FOR REFERENCE AND NEW SCREENSHOT UPDATED
